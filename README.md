@@ -13,6 +13,7 @@
    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
 
 Me chamo Juliano, graduando de Analise e desenvolvimento de sistemas, sou extremamente apaixonado pela área de desenvolvimento. Quero ganhar experiência na área de desenvolvedor.
