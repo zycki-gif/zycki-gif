@@ -3,9 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zycki-gif&show_icons=true&theme=synthwave)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zycki-gif&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
+👋 Hello, I'm Juliano, a Data Engineer at CI&T with experience in full-stack development and building data pipelines in the Azure environment. My passion for technology and data has led me to dive deep into big data tools like Apache Spark, Kafka, and Hadoop. Currently, I'm focused on applying my expertise in cloud, data streaming, and programming to create efficient and scalable data analysis solutions.
 
-👋 Olá, sou Juliano, Engenheiro de Dados na CI&T, com experiência em desenvolvimento full-stack e construção de pipelines de dados no ambiente Azure. Minha paixão pela tecnologia e pelos dados me levou a mergulhar fundo em ferramentas de big data como Apache Spark, Kafka e Hadoop. Atualmente, estou focado em aplicar minha expertise em nuvem, data streaming e programação na criação de soluções de análise de dados eficientes e escaláveis.
+🎓 Certified as an IBM Data Engineering Professional and Microsoft Data Engineering Associate (DP-203), I'm committed to enhancing my skills and contributing to challenging projects in the field of Data Engineering. I love collaborating with multidisciplinary teams and tackling challenges to create high-performance data solutions.
 
-🎓 Certificado IBM Data Engineering Professional e Microsoft Data Engineering Associate (DP-203), estou comprometido em aprimorar minhas habilidades e contribuir para projetos desafiadores na área de Engenharia de Dados. Adoro colaborar em equipes multidisciplinares e enfrentar desafios para criar soluções de dados de alto desempenho.
+🚀 Always eager to learn and share knowledge, I'm excited about the possibilities that the intersection of technology and data offers. Let's connect and collaborate on amazing projects!
 
-🚀 Sempre em busca de aprender e compartilhar conhecimento, estou entusiasmado com as possibilidades que a interseção entre tecnologia e dados oferece. Vamos conectar e colaborar em projetos incríveis!
